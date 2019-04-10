@@ -1,15 +1,24 @@
 body {
-  background: rgb(76, 48, 199);
+    background: rgb(255, 255, 255);
 }
+
 .thumbnail img {
-  width: 100%;
+    width: 100%;
 }
+
 .thumbnail {
-  padding: 0;
+    padding: 0;
 }
+
 .thumbnail .caption-full {
-  padding: 9px;
+    padding: 9px;
 }
+
 #delete-form {
-  display: inline;
+    display: inline;
+}
+
+#userImage {
+    height: 200px;
+    width: 200px;
 }
